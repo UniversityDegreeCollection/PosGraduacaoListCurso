@@ -28,3 +28,7 @@ Objetivos específicos:
 - Estabelecer, a partir da integração dos profissionais capacitados, uma comunidade voltada para a discussão permanente de temas relacionados à análise forense de registros de áudio e imagens; e
 - Estabelecer uma rede de profissionais que possa promover encontros periódicos em um fórum adequado com a finalidade de equacionar conhecimentos e gerar o aperfeiçoamento contínuo dos métodos e das boas práticas em análise forense de registros de áudio e imagens
 
+---
+
+[BLUEAD](https://www.bluead.com.br/audio-image-forensics)
+
