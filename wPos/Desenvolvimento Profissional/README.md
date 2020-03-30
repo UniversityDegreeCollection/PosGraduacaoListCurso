@@ -58,11 +58,11 @@ Para o aluno que estuda a distância, algumas ações são importantes, como o c
  
 |Prazo |Unidade	|Atividade|	Tipo|	Valor|
 |----|--------|-----------|-----|------|
-|1ª Semana|	Ambientação|	Leitura	Conteúdo	|-|
-|         |   Tarefa 1	|Fórum de apresentação|	-|
-|2ª e 3ª Semanas|	Unidades 1 e 2	|Leitura	Conteúdo|	-|
-|                |Tarefa 2	|Fórum 	|50|
-|4ª e 5ª Semanas|	Unidades 3 e 4	|Leitura	Conteúdo	|-|
-|                |Tarefa 3	|Fórum	|50|
+|1ª Semana|	Ambientação|	Leitura	|Conteúdo	|-|
+|         |   |Tarefa 1	|Fórum de apresentação|	-|
+|2ª e 3ª Semanas|	Unidades 1 e 2	|Leitura	|Conteúdo|	-|
+|                ||Tarefa 2	|Fórum 	|50|
+|4ª e 5ª Semanas|	Unidades 3 e 4	|Leitura	|Conteúdo	|-|
+|                ||Tarefa 3	|Fórum	|50|
 |5 semanas	|4 Unidades	| TOTAL	|| 	100|
 
