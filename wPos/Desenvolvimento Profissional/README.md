@@ -66,3 +66,12 @@ Para o aluno que estuda a distância, algumas ações são importantes, como o c
 |                ||Tarefa 3	|Fórum	|50|
 |5 semanas	|4 Unidades	| TOTAL	|| 	100|
 
+
+### CRITÉRIO DE APROVAÇÃO NA DISCIPLINA:
+
+Cada disciplina do curso tem um processo de avaliação específico que envolve o desenvolvimento das atividades avaliativas propostas (tarefas).
+
+A disciplina de Desenvolvimento Profissional não tem uma prova presencial, como o restante das disciplinas do curso. Nesse caso, você terá que obter no mínimo 70% de aproveitamento no conjunto de tarefas.
+
+
+
