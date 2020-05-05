@@ -36,3 +36,41 @@ Prova presencial: realizada ao final do curso, em que o aluno concorre a 60% da 
 A nota final será a soma da nota das tarefas propostas na sala de aula on-line com a nota da prova presencial, sendo que, para ser aprovado, o aluno precisa ter, no mínimo, 70% de aproveitamento.
 
 Prof. Jorge Umberto Scatolin Marques
+
+
+## UNIDADE 1 - CONCEITOS DE BIG DATA
+
+|CONTEÚDO	|CAPÍTULO|
+|--------|---------|
+|INTRODUÇÃO	|1|
+|CLUSTER E PROGRAMAÇÃO PARALELA	|2|
+|INFRAESTRUTURA E ARQUITETURA DE SISTEMAS DISTRIBUÍDOS	|3|
+|APLICAÇÕES|	4|
+ 
+## UNIDADE 2 - BANCO DE DADOS RELACIONAL VS BANCO DE DADOS NOSQL
+
+|CONTEÚDO	|CAPÍTULO|
+|---------|--------|
+|RDBMS - BANCO DE DADOS RELACIONAL	|1|
+|NOSQL	|2|
+|MODELAGEM DE DADOS NOSQL	|3|
+|BANCO DE DADOS NOSQL – MONGODB|	4|
+ 
+## UNIDADE 3 - BANCOS DE DADOS PARA BIG DATA - HADOOP
+
+|CONTEÚDO	|CAPÍTULO|
+|--------|---------|
+|INTRODUÇÃO	|1|
+|CONCEITOS DE BIG DATA COM HADOOP	|2|
+|ARQUITETURA PRINCIPAL DO	|3|
+|ECOSSISTEMA HADOOP	|4|
+ 
+## UNIDADE 4 - BANCO DE DADOS PARA BIG DATA – SPARK
+
+|CONTEÚDO	|CAPÍTULO|
+|---------|--------|
+|INTRODUÇÃO	|1|
+|COMPONENTES DO SPARK	|2|
+|RDDS	|3|
+|DATASETS, DATAFRAMES E SPARK SQL	|4|
+
