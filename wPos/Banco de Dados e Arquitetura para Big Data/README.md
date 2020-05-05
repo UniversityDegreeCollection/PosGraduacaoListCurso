@@ -18,10 +18,10 @@ Analisaremos algumas ferramentas como Hadoop e sua estrutura, como HDFS, Map Red
 |Prazo	|Unidade	|Atividade	|Tipo |	Valor|
 |------|---------|-----------|------|------|
 |1ª a 4ª Semana	|Unidades 1 a 4|Leitura	|Conteúdo	|-|
-|               |Tarefa 1	|Questionário	|5|
-|               |Tarefa 2	|Fórum	|10|
-|               |Tarefa 3	|Questionário	|10|
-|               |Tarefa 4	|Envio de arquivo	|15|
+|               | |Tarefa 1	|Questionário	|5|
+|               | |Tarefa 2	|Fórum	|10|
+|               | |Tarefa 3	|Questionário	|10|
+|               | |Tarefa 4	|Envio de arquivo	|15|
 |4 Semana(s)	|4 Unidade(s)	Total	|40|
 
 
