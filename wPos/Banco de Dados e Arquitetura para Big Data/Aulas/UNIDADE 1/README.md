@@ -14,13 +14,15 @@ Alguns autores dividem os clusters em classes:
 
 ---
 
-###  Classe 1
+####  Classe 1
 
 Os clusters de Classe 1 são construídos utilizando, em sua maioria, tecnologias e peças padrão de mercado ou de fácil acesso, como interfaces de Discos SCSI, SSD, serial e placas de rede Gigabit Ethernet. O que torna seu preço mais viável que o de Classe 2.
 
-### Classe 2
+#### Classe 2
 
 O que diferencia os clusters de Classe 2 são os hardwares utilizados em sua construção. Nele são utilizados equipamentos Blade, processadores de alta performance, normalmente menos acessíveis aos entusiastas e empresas de pequeno porte.
+
+---
 
 ### Aplicações e benefícios
 
@@ -173,5 +175,60 @@ Sua primeira rotina é obter a tid do “mestre” chamando a função pvm_paren
 A MPI (Message Passing Interface) é uma biblioteca composta por métodos para troca de mensagens, que será responsável pela comunicação e sincronização de processos em um cluster paralelo. Em relação à programação, os processos de um programa paralelo podem ser escritos em uma linguagem de programação sequencial, tal como C, C++ ou Fortran. O objetivo principal da MPI é expor uma interface que seja largamente utilizada no desenvolvimento de programas com o propósito de troca de mensagens, garantindo sua portabilidade em qualquer arquitetura, mas sem a intenção de fornecer uma infraestrutura completa de software para a computação distribuída. Isso a torna recomendável para o desenvolvimento de programas paralelos de alta performance, ou seja, supercomputadores, que possuem milhares de processadores paralelos em apenas uma máquina.
 
 Em termos simples, o objetivo da Interface de Passagem de Mensagens é fornecer um padrão amplamente usado para escrever programas de passagem de mensagens. A interface tenta ser:
+
+- Prático.
+- Portátil.
+- Eficiente.
+- Flexível.
+
+Hoje, o MPI é executado em praticamente qualquer plataforma de hardware:
+
+- Memória distribuída.
+- Memória compartilhada.
+- Híbrido.
+
+No entanto, o modelo de programação permanece claramente um modelo de memória distribuída, independentemente da arquitetura física subjacente da máquina. Todo paralelismo é explícito: o programador é responsável por identificar corretamente o paralelismo e implementar algoritmos paralelos usando construções MPI.
+
+Razões para usar o MPI:
+
+---
+
+#### Padronização
+
+MPI é a única biblioteca que tem a função de troca de mensagens. É suportado em praticamente todas as plataformas HPC. Praticamente substituiu todas as bibliotecas anteriores.
+
+#### Portabilidade
+
+Há pouca ou nenhuma necessidade de modificar seu código-fonte quando você move o aplicativo para uma plataforma diferente que suporta o padrão MPI.
+
+#### Oportunidades de desempenho
+
+As implementações de fornecedores devem poder explorar os recursos de hardware nativo para otimizar o desempenho. Qualquer implementação é livre para desenvolver algoritmos otimizados.
+
+
+#### Funcionalidade
+
+Existem mais de 430 rotinas definidas no MPI-3, que incluem a maioria daquelas no MPI-2 e MPI-1. A maioria dos programas MPI pode ser escrita usando uma dúzia ou menos de rotinas.
+
+#### Disponibilidade
+
+Diversas implementações estão disponíveis, tanto de fornecedor quanto de domínio público.
+
+---
+
+### História e evolução
+
+O MPI resultou dos esforços de numerosos indivíduos e grupos que começaram em 1992.
+
+- Década de 1980 – início dos anos 90: a memória distribuída e a computação paralela se desenvolvem, assim como várias ferramentas de software incompatíveis para a criação de tais programas. Surgiu o reconhecimento da necessidade de um padrão.
+- Abril de 1992: os recursos básicos essenciais para uma interface de passagem de mensagens padrão foram discutidos e um grupo de trabalho foi estabelecido para continuar o processo de padronização.
+- Novembro de 1992: a proposta preliminar do MPI (MPI1) do ORNL é apresentada. Com o tempo, compreendeu cerca de 175 indivíduos de 40 organizações, incluindo fornecedores de computadores paralelos, criadores de software, acadêmicos e cientistas de aplicativos.
+- Novembro de 1993: Supercomputing 93 conference – rascunho do padrão MPI.
+- Maio de 1994: versão final do MPI-1.0 lançada.
+- Atual: o padrão MPI-4.0 está em desenvolvimento.
+
+
+
+
 
 
