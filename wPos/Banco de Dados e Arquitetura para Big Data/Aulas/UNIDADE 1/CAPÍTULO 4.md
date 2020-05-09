@@ -77,15 +77,46 @@ Em seu artigo denominado “Top 20 Best Big Data Applications & Examples in Toda
 
 ## Aplicação no gerenciamento de acidentes
 
-Pode identificar os possíveis desastres avaliando a temperatura, o nível da água, a pressão do vento e outros fatores relacionados.
+- Pode identificar os possíveis desastres avaliando a temperatura, o nível da água, a pressão do vento e outros fatores relacionados.
+- Reduzir os efeitos adversos de desastres naturais.
+- Os meteorologistas podem analisar os dados coletados do satélite e do radar.
+- Pode identificar o nível da água e a possibilidade de inundação em qualquer área.
+- Terremotos podem ser monitorados por especialistas em gerenciamento de desastres naturais.
 
-» Reduzir os efeitos adversos de desastres naturais.
+## Aplicação na segurança nacional
 
-» Os meteorologistas podem analisar os dados coletados do satélite e do radar.
+- Os governos coletam as informações de todos os cidadãos e esses dados são armazenados em um banco de dados para muitos propósitos.
+- A ciência de dados é implementada nesses bancos de dados para extrair informações significativas juntamente com um relacionamento oculto entre conjuntos de dados.
+- Pode avaliar a densidade da população em um local específico e identificar as possíveis situações ameaçadoras antes mesmo que algo ocorra. 
+- Os agentes de segurança podem usar esse conjunto de dados para encontrar qualquer criminoso e detectar atividades fraudulentas em qualquer área do país.
+- Além disso, o pessoal relacionado pode prever a possível disseminação de qualquer vírus ou doença e tomar as medidas necessárias para prevenir.
 
-» Pode identificar o nível da água e a possibilidade de inundação em qualquer área.
 
-» Terremotos podem ser monitorados por especialistas em gerenciamento de desastres naturais.
+## Aplicação em agricultura
+
+- Aplicar em todo o processo, desde a colheita até o processo de distribuição de produtos agrícolas, como arroz, trigo, legumes e assim por diante.
+- Coletar dados dos últimos anos e sugerir os pesticidas que funcionam melhor sob certas condições.
+- Permite que os proprietários da empresa usem a mesma terra para vários fins e os aplicativos de ciência de dados podem gerar produção ao longo do ano sem intervalo.
+- Enquanto as tecnologias inteligentes coletam dados diretamente dos campos, algoritmos avançados e ciência de dados podem impulsionar habilidades fantásticas de tomada de decisão.
+
+
+## Aplicação na educação
+
+- Pode armazenar, gerenciar, analisar os grandes conjuntos de dados que incluem os registros dos alunos.
+- Garantir que os documentos das perguntas não vazem antes dos exames.
+- Ele fornece dados influentes sobre as atividades da sala de aula e ajuda na tomada de decisões para as organizações.
+- Usando câmeras de alta resolução, imagens de vídeo e processamento de imagens, pode avaliar a expressão facial do aluno e acompanhar seus movimentos.
+- Motiva os alunos, identificando problemas e prestando a melhor educação possível às crianças.
+
+
+## Aplicação no setor governamental
+
+- O governo pode acessar informações funcionais diárias, considerando indecentes tópicos específicos.
+- Pode ajudar a identificar as áreas que precisam de atenção e analisar para melhorar a situação atual.
+- Governos podem facilmente alcançar a demanda pública e agir em conformidade.
+- Ajuda a monitorar as decisões tomadas pelo governo e avaliar os resultados.
+- Prever qualquer ataque terrorista e tomar as medidas necessárias para evitar condições indesejadas.
+
 
 
 
