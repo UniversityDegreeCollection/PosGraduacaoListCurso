@@ -38,3 +38,54 @@ Plataforma IBM para IoT
 Em seu artigo denominado “Top 20 Best Big Data Applications & Examples in Today’s World”, Parijat Dutta, especialista em Big Data e Hadoop, nos presenteia com várias aplicações que utilizam Big Data. Seguem alguns exemplos que esse autor achou mais importantes:
 
 
+## Setor bancário
+
+
+- Identificar os novos locais das filiais onde a demanda é alta.
+- Prever a quantidade de dinheiro necessária para estar presente em uma agência na época específica de cada ano.
+- Detectar atividades fraudulentas e reportar ao pessoal relacionado.
+- Manipular, armazenar e analisar essa enorme quantidade de dados e garantir sua segurança também para os bancos.
+
+
+## Aplicação no turismo
+
+
+- Analisar os dados que os viajantes fornecem nas mídias sociais.
+- Alguns dos dispositivos podem coletar informações de cartão de crédito ou débito para compra rápida e identificação rápida do viajante.
+- Planejar com eficiência os dados dos passageiros e suas bagagens durante toda a viagem e fornecer serviços de acordo.
+- Enviar ofertas e benefícios adequados para o cliente em particular.
+- Ajudar a fornecer segurança usando a tecnologia blockchain.
+
+
+## Aplicação na área da saúde
+
+- Monitorar pacientes e enviar relatórios aos médicos associados.
+- Previsão de médicos necessários em horários específicos.
+- Avaliar os sintomas e identificar muitas doenças nos estágios iniciais.
+- Manter os registros confidenciais protegidos e armazenar grande quantidade de dados com eficiência.
+- Analisar o comportamento e a condição de saúde dos pacientes.
+- Prever o local onde há chance de propagação da dengue ou da malária.
+
+## Aplicação em comércio eletrônico
+
+- Pode coletar dados e requisitos do cliente mesmo antes do início da operação oficial.
+- Cria um modelo de marketing de alto desempenho.
+- Os proprietários de comércio eletrônico podem identificar os produtos mais visualizados e as páginas que apareceram o número máximo de vezes.
+- alia o comportamento dos clientes e sugere produtos similares.
+-  aplicativos de Big Data podem gerar um relatório classificado, dependendo da idade, sexo, local do visitante etc.
+
+
+## Aplicação no gerenciamento de acidentes
+
+Pode identificar os possíveis desastres avaliando a temperatura, o nível da água, a pressão do vento e outros fatores relacionados.
+
+» Reduzir os efeitos adversos de desastres naturais.
+
+» Os meteorologistas podem analisar os dados coletados do satélite e do radar.
+
+» Pode identificar o nível da água e a possibilidade de inundação em qualquer área.
+
+» Terremotos podem ser monitorados por especialistas em gerenciamento de desastres naturais.
+
+
+
