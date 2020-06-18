@@ -73,6 +73,8 @@ Para testes automatizados para Mobile faremos uso do framework de automação Ap
 
 - Execução remota de testes 
 
+---
 
+[https://sisnema.com.br/automacao-de-teste-de-software-web-e-mobile](https://sisnema.com.br/automacao-de-teste-de-software-web-e-mobile)
 
 
