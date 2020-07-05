@@ -15,4 +15,9 @@ Muitos fatores contribuem para definir a qualidade do software e algumas formas 
 Pressman (2011, p. 391), descreve as ações do SQA para garantir um conjunto de metas, atributos e métricas pragmáticas:
 
 
+Tabela 2. Metas, atributos e métricas.
 
+
+|META|ATRIBUTO|MÉTRICA|
+|----|-------|--------|
+|Qualidade dos requisitos|Ambiguidade - Volatilidade - Clareza no Modelo - Facilidade de atribuição|Número de modificadores ambíguos. - Número de mudanças por requisito. - Número de modelos UML. - Número de requisitos não atribuídos ao projeto|
