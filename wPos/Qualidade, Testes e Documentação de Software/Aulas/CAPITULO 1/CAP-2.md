@@ -20,4 +20,4 @@ Tabela 2. Metas, atributos e métricas.
 
 |META|ATRIBUTO|MÉTRICA|
 |----|-------|--------|
-|Qualidade dos requisitos|Ambiguidade - Volatilidade - Clareza no Modelo - Facilidade de atribuição|Número de modificadores ambíguos. - Número de mudanças por requisito. - Número de modelos UML. - Número de requisitos não atribuídos ao projeto|
+|Qualidade dos requisitos|Ambiguidade <br> Volatilidade <br> Clareza no Modelo <br> Facilidade de atribuição|Número de modificadores ambíguos. <br> Número de mudanças por requisito. <br> Número de modelos UML. <br> Número de requisitos não atribuídos ao projeto|
