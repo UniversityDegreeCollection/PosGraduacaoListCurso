@@ -115,5 +115,78 @@ Segundo sugestão de Guedes (2009, p. 56), em primeiro lugar deve-se fornecer um
 ||2. Recusar o pedido de abertura|
 
 
+## Estereótipos
+
+Estereótipos são mecanismos de extensibilidade em UML que permitem aos projetistas estender o vocabulário da UML para criar novos elementos de modelo. Ao aplicar estereótipos apropriados em seu modelo, você pode tornar o modelo de especificação compreensível. Segundo Guedes (2009, p. 68), estereótipos podem atribuir funções extras ou diferentes a um componente, permitindo que este possa ser utilizado para modelar diferentes componentes e situações diferentes das quais foram originalmente projetados.
+
+### Saiba Mais
+
+>Existem vários elementos que podem ser aplicados aos componentes da UML e podem ser acessados em: <https://www.omg.org/spec/UML/2.5.1/PDF>, página 681.
+
+Os estereótipos podem ser classificados em:
+
+## Classe
+
+- «auxiliary»: aplicado a uma classe que suporta outra classe, geralmente fornecendo mecanismos de controle. A classe suportada é uma classe de foco. 
+- «focus»: aplicado a uma classe que especifica a lógica principal ou o controle com classes auxiliares que fornecem mecanismos subordinados. 
+- «implementationClass»: é aplicado a uma implementação de uma classe em que a instância da classe não pode ter mais de uma classe. 
+- «metaclass»: é aplicado a uma classe cujas instâncias são outras classes que estão em conformidade com a metaclasse. 
+- «type»: é aplicado a uma classe que descreve o domínio de objetos e suas operações, mas não define a implementação de objetos. 
+- «utility»: é aplicado a uma classe que não possui instâncias, mas cujos atributos e operações possuem escopo de classe.
+
+## Artefato
+
+- «document»: é aplicado a um artefato que representa um documento. 
+- «executable»: é aplicado a um artefato que pode ser executado em um nó. 
+- «file»: é aplicado a um artefato que contém código-fonte ou dados. 
+- «library»: é aplicado a um artefato que é um arquivo de biblioteca estático ou dinâmico. 
+- «script»: é aplicado a um arquivo que pode ser interpretado por um sistema de computador. 
+- «source»: é aplicado a um arquivo de origem de um arquivo executável.
+
+## Operação
+
+>» «create»: é aplicado a uma operação que cria uma instância do classificador; por exemplo, se a operação for um construtor. 
+
+
+>» «destroy»: é aplicado a uma operação que destrói uma instância do classificador.
+
+## Componente
+
+- «buildComponent»: é aplicado a um componente que especifica um conjunto de componentes para o desenvolvimento organizacional ou no nível do sistema. 
+- «entity»: é aplicado a um componente que representa um conceito de negócio. 
+- «implement»: é aplicado a um componente que não possui uma especificação e é uma implementação de uma especificação na qual ele possui uma dependência. 
+- «process»: é aplicado a um componente que é baseado em transação. 
+- «service»: é aplicado a um componente que calcula um valor. Esse componente não tem estado
+- «subsystem»: é aplicado a um componente que faz parte de um sistema maior.
+
+## Pacote
+
+- «framework»: é aplicado a um pacote que contém elementos reutilizáveis, como classes, padrões e modelos. 
+- «modelLibrary»: é aplicado a um pacote que contém elementos de modelo para reutilização. 
+- «perspective»: é aplicado a um pacote que contém apenas diagramas ou subpacotes. Os extratores ignoram pacotes que possuem esse estereótipo aplicado.
+
+## Modelo
+
+- «metamodel»: é aplicado a um pacote que contém um modelo que é uma abstração de outro modelo. 
+- «systemModel»: é aplicado a um modelo ou pacote que contém os modelos que descrevem diferentes perspectivas de um sistema.
+
+## Classificador
+
+>» «realization»: é aplicado a um classificador que especifica o domínio dos objetos e sua implementação. 
+
+
+>» «specification»: é aplicado a um classificador que especifica o domínio de objetos, não sua implementação.
+
+## Uso
+
+- «responsibility»: é aplicado a uma nota que descreve a obrigação de um elemento de modelo para outros elementos do modelo.
+
+<p align="center">Figura 13. Estereótipos em classes.</p>
+
+![](./data/img14.jpg)
+
+
+
+
 
 
