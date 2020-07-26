@@ -19,3 +19,12 @@ Segundo OMG (2017, p. 683), um modelo UML consiste em elementos como pacotes, cl
 
 <p align="center">Figura 7. Diagrama UML.</p>
 
+![](./data/img8.jpg)
+
+O cabeçalho do diagrama representa o tipo, o nome e os parâmetros do espaço de nome incluído ou o elemento do modelo que possuir elementos, representados por símbolos, na área de conteúdo.
+
+<p align="center">Figura 8. Diagrama de Classe do Pacote P1.</p>
+
+![](./data/img9.jpg)
+
+Alguns diagramas representam as propriedades contidas em outro modelo. Sendo assim, serão definidos no espaço de nomes ou namespace. Como exemplo, duas classes associadas definidas em um pacote, em um diagrama para o pacote, serão representadas por dois símbolos de classe e um caminho de associação conectando essas duas classes símbolos (OMG 2017, p. 683).
