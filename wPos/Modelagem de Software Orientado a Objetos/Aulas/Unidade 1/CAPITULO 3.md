@@ -28,3 +28,14 @@ O cabeçalho do diagrama representa o tipo, o nome e os parâmetros do espaço d
 ![](./data/img9.jpg)
 
 Alguns diagramas representam as propriedades contidas em outro modelo. Sendo assim, serão definidos no espaço de nomes ou namespace. Como exemplo, duas classes associadas definidas em um pacote, em um diagrama para o pacote, serão representadas por dois símbolos de classe e um caminho de associação conectando essas duas classes símbolos (OMG 2017, p. 683).
+
+
+<p align="center">Figura 9. Dois diagramas em um pacote.</p>
+
+![](./data/img10.jpg)
+
+## Diagramas
+
+A finalidade da UML é ser uma linguagem de representação gráfica, ou seja, não existe nenhuma tecnologia específica, como uma linguagem de programação qualquer. Por isso, ao longo de sua evolução, vários diagramas foram sendo criados para atender diversos propósitos. É como se o sistema fosse modelado em camadas, sendo que alguns diagramas enfocam o sistema de forma geral, apresentando uma visão externa, como os Diagramas de Casos de Uso. A utilização de diversos diagramas permite que falhas sejam descobertas, diminuindo a possibilidade da ocorrência de erros futuros (GUEDES, 2001, p. 30).
+
+Os diagramas podem ser divididos em Diagrama de Estrutura e Diagrama de Comportamento.
