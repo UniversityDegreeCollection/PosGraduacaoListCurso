@@ -186,6 +186,49 @@ Os estereótipos podem ser classificados em:
 ![](./data/img14.jpg)
 
 
+## Associações
+
+Associações entre atores e casos de uso são indicadas nos diagramas de caso de uso por linhas sólidas. Existe uma associação sempre que um ator está envolvido com uma interação descrita por um caso de uso e são modeladas como linhas que conectam casos de uso e atores entre si, com uma ponta de seta opcional em uma extremidade da linha, em que a ponta de seta costuma ser usada para indicar a direção da chamada inicial do relacionamento ou para indicar o ator primário no caso de uso. As associações podem ser de inclusão extensão e generalização.
+
+<p align="center">Figura 14. Ação entre Ator e UseCase.</p>
+
+![](./data/img15.jpg)
+
+## Diagrama de classes
+
+O Diagrama de Classes é um dos diagramas mais importantes da modelagem de Software. Ele utiliza a linguagem UML para ilustrar as classes, seus atributos, métodos e seus relacionamentos.
+
+## Generalização
+
+O relacionamento de generalização é uma forma de associação entre casos de uso na qual existem dois ou mais casos de uso com características semelhantes, apresentando pequenas diferenças entre si (GUEDES, 2009, p. 59). Ainda, segundo Guedes (2009, p. 59), os casos de uso especializados herdam também quaisquer possíveis associações de inclusão e extensão que o caso de uso venha a ter. A associação de generalização/especialização é graficamente representada com uma seta, que aponta para o uso de caso geral, partindo do uso de casos especializados.
+
+<p align="center">Figura 15. Generalização.</p>
+
+![](./data/img16.jpg)
+
+## Inclusão
+
+Um relacionamento de inclusão indica obrigatoriedade, ou seja, quando um determinado caso de uso tem relacionamento de inclusão com outro, a execução do primeiro obriga também a execução do segundo (GUEDES, 2009, p. 61). É representada por uma linha tracejada, com uma seta apontando para o uso de caso de inclusão. Algumas ferramentas ainda inserem o texto “include”.
+
+## Extensão
+
+O relacionamento de extensão se assemelha com a inclusão nas linhas tracejadas, porém a diferença é que representam cenários opcionais, que ocorrerão em situações específicas, quando alguma premissa for satisfeita. A seta também aponta para o caso de uso que utiliza o caso de uso estendido. Algumas ferramentas utilizam a palavra extended, no meio da linha tracejada.
+
+Existem muitos outros diagramas que serão utilizados em capítulos mais específicos, como design de modelos e de arquitetura. São eles:
+
+- Diagrama de Objetos;
+- Diagramas de Pacotes;
+- Diagrama de Sequências;
+- Diagrama de Comunicação;
+- Diagrama de Máquinas de Estado;
+- Diagrama de Atividade;
+- Diagrama de Visão Geral de Interação;
+- Diagrama de Componentes;
+- Diagrama de Implantação;
+- Diagrama de Estrutura Composta;
+- Diagrama de Tempo ou Temporização.
+
+
 
 
 
