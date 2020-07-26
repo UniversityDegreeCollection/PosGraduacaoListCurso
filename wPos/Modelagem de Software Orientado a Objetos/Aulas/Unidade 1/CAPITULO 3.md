@@ -60,4 +60,60 @@ O diagrama de uso define interações entre atores externos e o sistema, para at
 Ator é uma pessoa, organização ou sistema externo que desempenha um papel em uma ou mais interações com seu sistema. Segundo Guedes (2009, p. 53), os atores, além dos usuários do sistema, podem representar, eventualmente, hardware ou um software que interaja com o sistema; são representados por figuras de “bonecos magros” contendo breve descrição logo abaixo do seu símbolo que identifica que papel o ator assume dentro do diagrama.
 
 
+<p align="center">Figura 11. Representação de atores.</p>
+
+![](./data/img12.jpg)
+
+## Caso de uso ou use case
+
+Segundo a própria documentação da UML, os UseCases são um meio para capturar os requisitos dos sistemas, ou seja, quais sistemas devem ser feitos. Os principais conceitos especificados nessa cláusula são Atores, UseCase e Assuntos. Cada sujeito de UseCase representa um sistema sob consideração a que o UseCase se aplica. Usuários e quaisquer outros sistemas que possam interagir com um assunto são representados como atores. Um UseCase é uma especificação de comportamento. Uma instância de um UseCase refere-se a uma ocorrência do comportamento emergente que está em conformidade com o UseCase correspondente. Tais instâncias são frequentemente descritas por Interações.
+
+### Saiba Mais
+
+>Segundo Guedes (2009, p. 54), os casos de uso podem ser considerados primários, que se refere a processos importantes e enfoca um dos requisitos funcionais do software, como realizar um saque ou emitir um extrato. Já o secundário se refere como um processo periférico, como manutenção de um cadastro.
+
+>Um UseCase é mostrado como uma elipse, contendo o nome do UseCase. Uma palavra-chave de estereótipo opcional pode ser colocada acima do nome. Um assunto para um conjunto de UseCases (às vezes, chamado de limite do sistema) pode ser mostrado como um retângulo com seu nome no canto superior esquerdo, com as elipses UseCase localizadas visualmente dentro desse retângulo.
+
+<p align="center">Figura 12. Pacote que possui um conjunto de UseCases, atores e um subsistema.</p>
+
+![](./data/img13.jpg)
+
+## Documentação do caso de uso
+
+Por meio de linguagem simples, a documentação do caso de uso descreve informações do caso de uso, dos atores, de suas interações, execuções dos atores e sistema. Entretanto, não existe um formato específico ou padronizações.
+
+Segundo sugestão de Guedes (2009, p. 56), em primeiro lugar deve-se fornecer uma descrição para o caso de uso que está sendo documentado. Também deve possuir a informação do UseCase Geral, pois, como vimos, pode haver Casos de Uso que herdam as suas características. O campo ator principal se refere ao ator que mais espera o resultado ou que mais interage com o sistema. Podemos também apresentar uma linha com restrições e validações.
+
+<p align="center">Tabela 1. Modelo sugestivo de documentação de Caso de Uso.</p>
+
+|NOME DO CASO DE USO|ABRIR CONTA|
+|------------------|------------|
+|Caso de uso Geral| -|
+|Ator Principal|Cliente|
+|Atores Secundários|Funcionário|
+|Resumo|Esse Caso de Uso descreve as etapas percorridas por um cliente para abrir uma conta|
+|Pré-condições|O pedido de abertura precisa ser previamente aprovado|
+|Pós- condições|É necessário realizar um depósito inicial|
+|Fluxo Principal||
+|Ações do Ator|Ações do Sistema|
+|1. Solicitar Abertura de Conta||
+||2. Consultar cliente por seu CPF ou CNPJ|
+|3. Informar a senha da cota||
+||4. Abrir conta|
+|5. Fornecer valor a ser depositado||
+||6. Registrar depósito|
+||7. Emitir cartão da conta|
+|Restrições/Validações|1. Para abrir uma conta corrente é preciso ser maior de idade|
+||2. O valor mínimo de depósito é R$ 5,00|
+||3. O cliente precisa fornecer algum comprovante de residência|
+|Fluxo Alternativo – Manutenção no cadastro do Cliente||
+|Ações do Ator|Ações do Sistema|
+||Se for necessário, executar Caso de Uso Manter Cliente para gravar ou atualizar o cadastro do cliente|
+|Fluxo de Exceção – Cliente menor de idade||
+|Ações do Ator|Ações do Sistema|
+||1. Comunicar ao cliente que este não possui a idade mínima|
+||2. Recusar o pedido de abertura|
+
+
+
 
