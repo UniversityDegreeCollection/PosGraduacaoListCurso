@@ -17,3 +17,21 @@ Segundo Veras (2015, p. 12), um dos conceitos-chaves para a transformação da T
 Alinhar estrategicamente garante que haja uma ligação entre o plano de negócios da empresa com o departamento de TI, para definir, validar a proposta diante das operações estratégicas das empresas.
 
 Ainda em Veras (2015, p. 12), três são os planos que se completam para o alinhamento estratégico.
+
+## PLANEJAMENTO ESTRATÉGICO DE TI (PETI)
+
+Planejamento Estratégico de TI é um projeto, documento ou forma com que a empresa busca estruturar estrategicamente as informações organizacionais, a TI, os sistemas de informação, os sistemas de gestão do conhecimento. O Peti deve também englobar a gestão dos recursos humanos envolvidos, os demais necessários para auxiliar tomadas de decisões, ações e processo das organizações e deve ser coerente com a missão, a visão e os valores da instituição.
+
+Por se tratar de projeto, ele deverá ser único, ou seja, não existe uma receita pronta para criar ou implantar um Peti. Sabemos que um projeto precisa obrigatoriamente possuir, algumas características mínimas como, uma data de início e término, um escopo bem definido e um limite de recurso financeiro para sua execução. Diante disso, para a criação de um Peti, devemos passar por algumas fases do PMBOK.
+
+Segundo Souza (2018, p. 5), um Peti de sucesso deverá passar por três estágios: de preparação, diagnóstico e planejamento. O estágio de preparação representa o início do projeto de desenvolvimento do Peti e deve observar as seguintes tarefas, que compõem a fase de preparação do desenvolvimento:
+
+- definir um período de validade para o ITSP;
+- definir o escopo;
+- definir a equipe de construção e os participantes no ITSP;
+- definir a metodologia;
+- definir a missão e a visão da instituição;
+- definir os documentos usados como referências;
+- alinhar o ITSP com os documentos da agência.
+
+
