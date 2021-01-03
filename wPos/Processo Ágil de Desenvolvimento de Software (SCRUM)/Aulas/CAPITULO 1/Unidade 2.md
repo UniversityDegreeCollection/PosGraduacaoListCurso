@@ -76,7 +76,7 @@ Seguindo um exemplo de Sommerville (2010, p 43), “os requisitos vão evoluir e
 
 Veremos mais adiante que um processo ágil não é, inevitavelmente, focado no código e pode produzir alguma documentação de projeto.
 
-![](data/imig5.jpg)
+![](data/img5.jpg)
 
 Segundo SBOK (2017, p. 53), “o destaque do modelo clássico de gerenciamento de projetos está na execução do planejamento inicial do projeto, com ênfase na fixação do escopo, custo e cronograma, e gerenciamento desses parâmetros. O modelo tradicional de gerenciamento de projetos pode muitas vezes levar a uma circunstância em que, apesar o plano tenha sido bem sucedido, o cliente não está contente”.
 
