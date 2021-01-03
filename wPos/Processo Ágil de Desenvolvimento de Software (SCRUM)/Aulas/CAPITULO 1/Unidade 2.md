@@ -58,15 +58,29 @@ As metodologias ágeis estão sendo muito aceitas no desenvolvimento de projetos
 
 Fonte: adaptada e traduzida de https://www.proofhub.com/articles/traditional-vs-agile-project-management.
 
-Desenvolvimento ágil e desenvolvimento dirigido a planos
+### Desenvolvimento ágil e desenvolvimento dirigido a planos
 
 Existe uma comparação feita por Sommerville (2010, p. 42) entre desenvolvimento ágil e desenvolvimento de software dirigido a planos. “Na verdade, a maioria dos projetos de software inclui práticas das abordagens dirigidas a planos e ágil”.
 
-Desenvolvimento dirigido a planos versus desenvolvimento ágil
+### Desenvolvimento dirigido a planos versus desenvolvimento ágil
 
 É baseado em estágios de desenvolvimento separados, com produtos a serem produzidos em cada um dos estágios, antecipadamente planejados, que é muito bem representado pelo modelo Cascata.
 
 Segundo Sommerville (2010, p. 42), “em uma abordagem dirigida a planos, ocorrem iterações no campo das atividades com documentos formais, usados para determinar a comunicação entre os estágios do processo. As saídas de um estágio são usadas como apoio para o planejamento da atividade do processo seguinte. Um processo de software dirigido a planos pode amparar o desenvolvimento e a entrega incremental. É completamente factível alocar requisitos e preconceber as fases de projeto e desenvolvimento como uma sucessão de incrementos”.
+
+![](data/img4.jpg)
+
+Nas metodologias ágeis, tanto o projeto, a elicitação, os testes, os requisitos, quanto a implementação são atividade centrais.
+
+Seguindo um exemplo de Sommerville (2010, p 43), “os requisitos vão evoluir e, finalmente, será produzida uma especificação de requisitos. Essa é, então, uma entrada para o processo de projeto e implementação. Em uma abordagem ágil, iterações ocorrem em todas as atividades. Portanto, os requisitos e o projeto são desenvolvidos em conjunto, e não separadamente”.
+
+Veremos mais adiante que um processo ágil não é, inevitavelmente, focado no código e pode produzir alguma documentação de projeto.
+
+![](data/imig5.jpg)
+
+Segundo SBOK (2017, p. 53), “o destaque do modelo clássico de gerenciamento de projetos está na execução do planejamento inicial do projeto, com ênfase na fixação do escopo, custo e cronograma, e gerenciamento desses parâmetros. O modelo tradicional de gerenciamento de projetos pode muitas vezes levar a uma circunstância em que, apesar o plano tenha sido bem sucedido, o cliente não está contente”.
+
+O framework Scrum acredita muito que os colaboradores agregam valores que vão além dos seus conhecimentos técnicos e que um planejamento mapeado é muito ineficiente em ambientes de mudanças constantes. Seu foco está em satisfazer as necessidade dos clientes em entregas incrementais utilizáveis e, para isso, promove a priorização de tarefas e escopos, Time-boxing e a auto-organização das equipes.  
 
 
 
